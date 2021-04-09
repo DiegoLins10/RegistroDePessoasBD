@@ -14,7 +14,7 @@
 - deletePessoa – que deverá deletar uma pessoa através do idPessoa
 - updatePessoa – que deverá alterar os dados de uma pessoa
 - allPessoas – que deverá retornar uma lista de todas as pessoas cadastradas
-### Utilizar @NamedQueries para as consultas utilizadas nos metodos findPessoaId, findPessoaCpf, findPessoaNome e allPessoas da classe Dao
+- Utilizar @NamedQueries para as consultas utilizadas nos metodos findPessoaId, findPessoaCpf, findPessoaNome e allPessoas da classe Dao
 - Criar uma classe para testar todos os métodos de Dao
 - Escolha o banco de dados de sua preferência
 
