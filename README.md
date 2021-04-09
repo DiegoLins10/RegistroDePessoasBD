@@ -18,5 +18,6 @@
 - Criar uma classe para testar todos os métodos de Dao
 - Escolha o banco de dados de sua preferência
 
+![](pessoas classes.png)
 
 
