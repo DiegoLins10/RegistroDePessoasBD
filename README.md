@@ -18,6 +18,6 @@
 - Criar uma classe para testar todos os métodos de Dao
 - Escolha o banco de dados de sua preferência
 
-![](pessoa classes.png)
+![](https://github.com/DiegoLins10/RegistroDePessoasBD/blob/master/pessoa%20classes.png)
 
 
